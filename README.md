@@ -207,7 +207,7 @@ Tick the checkbox by replacing space in `[ ]` with `[x]` corresponding to your r
 - [ ]  13
 - [ ]  14
 - [ ]  15
-- [ ]  16
+- [X]  16
 - [ ]  17
 - [ ]  18
 - [ ]  19
