@@ -192,12 +192,12 @@ Tick the checkbox by replacing space in `[ ]` with `[x]` corresponding to your r
 - [ ]  60
 
 ## CSB
-- [ ]  1
+- [x]  1
 - [ ]  2
 - [ ]  3
 - [ ]  4
 - [ ]  5
-- [ ]  6
+- [x]  6
 - [ ]  7
 - [ ]  8
 - [ ]  9
