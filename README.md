@@ -140,7 +140,7 @@ Tick the checkbox by replacing space in `[ ]` with `[x]` corresponding to your r
 - [ ]  8
 - [ ]  9
 - [ ]  10
-- [ ]  11
+- [x]  11
 - [ ]  12
 - [ ]  13
 - [ ]  14
