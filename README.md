@@ -183,7 +183,7 @@ Tick the checkbox by replacing space in `[ ]` with `[x]` corresponding to your r
 - [ ]  51
 - [ ]  52
 - [ ]  53
-- [ ]  54
+- [x]  54
 - [ ]  55
 - [ ]  56
 - [ ]  57
