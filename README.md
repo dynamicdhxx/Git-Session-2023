@@ -46,7 +46,7 @@ Tick the checkbox by replacing space in `[ ]` with `[x]` corresponding to your r
 - [ ]  38
 - [ ]  39
 - [ ]  40
-- [ ]  41
+- [x]  41
 - [ ]  42
 - [ ]  43
 - [ ]  44
@@ -119,7 +119,7 @@ Tick the checkbox by replacing space in `[ ]` with `[x]` corresponding to your r
 - [ ]  49
 - [ ]  50
 - [ ]  51
-- [ ]  52
+- [x]  52
 - [ ]  53
 - [ ]  54
 - [ ]  55
@@ -140,19 +140,19 @@ Tick the checkbox by replacing space in `[ ]` with `[x]` corresponding to your r
 - [ ]  8
 - [ ]  9
 - [ ]  10
-- [ ]  11
+- [x]  11
 - [ ]  12
 - [ ]  13
 - [ ]  14
 - [ ]  15
-- [ ]  16
+- [x]  16
 - [ ]  17
 - [ ]  18
 - [ ]  19
-- [ ]  20
+- [x]  20
 - [ ]  21
 - [ ]  22
-- [ ]  23
+- [x]  23
 - [ ]  24
 - [ ]  25
 - [ ]  26
@@ -163,7 +163,7 @@ Tick the checkbox by replacing space in `[ ]` with `[x]` corresponding to your r
 - [ ]  31
 - [ ]  32
 - [ ]  33
-- [ ]  34
+- [x]  34
 - [ ]  35
 - [ ]  36
 - [ ]  37
@@ -173,17 +173,17 @@ Tick the checkbox by replacing space in `[ ]` with `[x]` corresponding to your r
 - [ ]  41
 - [ ]  42
 - [ ]  43
-- [ ]  44
+- [x]  44
 - [ ]  45
 - [ ]  46
 - [ ]  47
 - [ ]  48
 - [ ]  49
-- [ ]  50
+- [x]  50
 - [ ]  51
 - [ ]  52
 - [ ]  53
-- [ ]  54
+- [x]  54
 - [ ]  55
 - [ ]  56
 - [ ]  57
@@ -192,34 +192,34 @@ Tick the checkbox by replacing space in `[ ]` with `[x]` corresponding to your r
 - [ ]  60
 
 ## CSB
-- [ ]  1
-- [ ]  2
-- [ ]  3
+- [x]  1
+- [x]  2
+- [x]  3
 - [ ]  4
 - [ ]  5
-- [ ]  6
+- [x]  6
 - [ ]  7
-- [ ]  8
-- [ ]  9
+- [x]  8
+- [x]  9
 - [ ]  10
 - [ ]  11
 - [ ]  12
-- [ ]  13
+- [x]  13
 - [ ]  14
-- [ ]  15
+- [x]  15
 - [ ]  16
 - [ ]  17
 - [ ]  18
 - [ ]  19
-- [ ]  20
+- [x]  20
 - [ ]  21
 - [ ]  22
 - [ ]  23
 - [x]  24
-- [ ]  25
+- [x]  25
 - [ ]  26
 - [ ]  27
-- [ ]  28
+- [x]  28
 - [ ]  29
 - [ ]  30
 - [ ]  31
@@ -227,12 +227,12 @@ Tick the checkbox by replacing space in `[ ]` with `[x]` corresponding to your r
 - [ ]  33
 - [ ]  34
 - [ ]  35
-- [ ]  36
+- [x]  36
 - [ ]  37
 - [ ]  38
 - [ ]  39
 - [ ]  40
-- [ ]  41
+- [x]  41
 - [ ]  42
 - [ ]  43
 - [ ]  44
@@ -248,7 +248,7 @@ Tick the checkbox by replacing space in `[ ]` with `[x]` corresponding to your r
 - [ ]  54
 - [ ]  55
 - [ ]  56
-- [ ]  57
+- [X]  57
 - [ ]  58
 - [ ]  59
 - [ ]  60
