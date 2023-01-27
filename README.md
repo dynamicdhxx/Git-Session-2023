@@ -199,12 +199,12 @@ Tick the checkbox by replacing space in `[ ]` with `[x]` corresponding to your r
 - [ ]  5
 - [ ]  6
 - [ ]  7
-- [X]  8
-- [ ]  9
+- [x]  8
+- [x]  9
 - [ ]  10
 - [ ]  11
 - [ ]  12
-- [y]  13
+- [x]  13
 - [ ]  14
 - [x]  15
 - [ ]  16
